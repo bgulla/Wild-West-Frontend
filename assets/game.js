@@ -303,5 +303,5 @@
         // uncomment the following line to display helpful information
         // in the top left corner
 
-        // game.debug.inputInfo(32, 32);
+        game.debug.inputInfo(32, 32);
     }
